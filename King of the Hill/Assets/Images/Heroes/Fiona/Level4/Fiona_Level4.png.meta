@@ -1,0 +1,609 @@
+fileFormatVersion: 2
+guid: 306f0fdbb800f49c9a53d0a024bfddee
+timeCreated: 1457853496
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Fiona_ shoot_Level 5_0001 \u043A\u043E\u043F\u0456\u044F"
+    21300002: "Fiona_ shoot_Level 5_0002 \u043A\u043E\u043F\u0456\u044F"
+    21300004: "Fiona_ shoot_Level 5_0003 \u043A\u043E\u043F\u0456\u044F"
+    21300006: "Fiona_ shoot_Level 5_0004 \u043A\u043E\u043F\u0456\u044F"
+    21300008: "Fiona_ shoot_Level 5_0005 \u043A\u043E\u043F\u0456\u044F"
+    21300010: "Fiona_ shoot_Level 5_0006 \u043A\u043E\u043F\u0456\u044F"
+    21300012: "Fiona_ tired_Level 5_0002 \u043A\u043E\u043F\u0456\u044F"
+    21300014: "Fiona_ tired_Level 5_0003 \u043A\u043E\u043F\u0456\u044F"
+    21300016: "Fiona_ tired_Level 5_0004 \u043A\u043E\u043F\u0456\u044F"
+    21300018: "Fiona_ tired_Level 5_0005 \u043A\u043E\u043F\u0456\u044F"
+    21300020: "Fiona_ tired_Level 5_0006 \u043A\u043E\u043F\u0456\u044F"
+    21300022: "Fiona_inaktive_Level 5_0001 \u043A\u043E\u043F\u0456\u044F"
+    21300024: "Fiona_inaktive_Level 5_0002 \u043A\u043E\u043F\u0456\u044F"
+    21300026: "Fiona_inaktive_Level 5_0003 \u043A\u043E\u043F\u0456\u044F"
+    21300028: "Fiona_inaktive_Level 5_0004 \u043A\u043E\u043F\u0456\u044F"
+    21300030: "Fiona_inaktive_Level 5_0005 \u043A\u043E\u043F\u0456\u044F"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Fiona_ shoot_Level 5_0001 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 95
+        width: 221
+        height: 160
+      alignment: 9
+      pivot: {x: 0.54751134, y: 0.73125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -26}
+        - {x: 85, y: -28}
+        - {x: 93, y: -19}
+        - {x: 100, y: -10}
+        - {x: 100, y: 27}
+        - {x: 95, y: 27}
+        - {x: 85, y: 14}
+        - {x: -101, y: -81}
+        - {x: -103, y: -85}
+        - {x: -103, y: -111}
+        - {x: 27, y: -111}
+        - {x: 81, y: -95}
+        - {x: 100, y: -54}
+        - {x: 100, y: -31}
+        - {x: 90, y: -25}
+      - - {x: 31, y: -80}
+        - {x: 31, y: -99}
+        - {x: 54, y: -108}
+        - {x: 100, y: -108}
+        - {x: 100, y: -80}
+    - name: "Fiona_ shoot_Level 5_0002 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 176
+        height: 226
+      alignment: 9
+      pivot: {x: 0.44886363, y: 0.46460176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 88}
+        - {x: 35, y: 4}
+        - {x: 31, y: -21}
+        - {x: -6, y: -46}
+        - {x: -9, y: -66}
+        - {x: -4, y: -66}
+        - {x: -1, y: -63}
+        - {x: -12, y: -77}
+        - {x: -55, y: -90}
+        - {x: -65, y: -99}
+        - {x: -65, y: -102}
+        - {x: -64, y: -104}
+        - {x: -57, y: -105}
+        - {x: 11, y: -105}
+        - {x: 37, y: -103}
+        - {x: 88, y: 3}
+        - {x: 88, y: 67}
+        - {x: 75, y: 88}
+      - - {x: 87, y: 117}
+        - {x: 86, y: 116}
+        - {x: 86, y: 110}
+        - {x: 93, y: 102}
+        - {x: 97, y: 102}
+        - {x: 97, y: 112}
+        - {x: 91, y: 117}
+    - name: "Fiona_ shoot_Level 5_0003 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 13
+        width: 100
+        height: 242
+      alignment: 9
+      pivot: {x: 0.16, y: 0.5289256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 112}
+        - {x: -5, y: 102}
+        - {x: 22, y: 38}
+        - {x: 23, y: -118}
+        - {x: 78, y: -118}
+        - {x: 78, y: 92}
+        - {x: 46, y: 112}
+      - - {x: -8, y: 75}
+        - {x: -16, y: 75}
+        - {x: -16, y: -110}
+        - {x: -11, y: -110}
+        - {x: -10, y: -109}
+        - {x: 15, y: -83}
+        - {x: 15, y: -25}
+        - {x: -1, y: 71}
+      - - {x: 72, y: 14}
+        - {x: 70, y: 9}
+        - {x: 70, y: -1}
+        - {x: 75, y: -9}
+        - {x: 83, y: -17}
+        - {x: 84, y: -17}
+        - {x: 84, y: 14}
+      - - {x: 66, y: 108}
+        - {x: 66, y: 98}
+        - {x: 80, y: 83}
+        - {x: 84, y: 83}
+        - {x: 84, y: 96}
+        - {x: 69, y: 108}
+    - name: "Fiona_ shoot_Level 5_0004 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 9
+        width: 143
+        height: 246
+      alignment: 9
+      pivot: {x: 0.37062937, y: 0.5203252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 114}
+        - {x: -33, y: 86}
+        - {x: 34, y: -93}
+        - {x: 44, y: -105}
+        - {x: 50, y: -105}
+        - {x: 83, y: -71}
+        - {x: 83, y: -4}
+        - {x: 49, y: 78}
+        - {x: 29, y: 101}
+        - {x: 0, y: 114}
+      - - {x: -51, y: 85}
+        - {x: -53, y: 83}
+        - {x: -53, y: 0}
+        - {x: -52, y: -3}
+        - {x: -41, y: -3}
+        - {x: -31, y: 6}
+        - {x: -31, y: 54}
+        - {x: -46, y: 85}
+    - name: "Fiona_ shoot_Level 5_0005 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 51
+        width: 167
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4550898, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 111}
+        - {x: -56, y: 89}
+        - {x: 61, y: -88}
+        - {x: 72, y: -88}
+        - {x: 88, y: -52}
+        - {x: 88, y: -2}
+        - {x: 24, y: 111}
+    - name: "Fiona_ shoot_Level 5_0006 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 51
+        width: 167
+        height: 204
+      alignment: 9
+      pivot: {x: 0.4550898, y: 0.45588234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: 111}
+        - {x: -56, y: 89}
+        - {x: 61, y: -88}
+        - {x: 72, y: -88}
+        - {x: 88, y: -52}
+        - {x: 88, y: -2}
+        - {x: 24, y: 111}
+    - name: "Fiona_ tired_Level 5_0002 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 11
+        width: 106
+        height: 244
+      alignment: 9
+      pivot: {x: 0.3773585, y: 0.5942623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 77}
+        - {x: -11, y: 90}
+        - {x: -22, y: 90}
+        - {x: -22, y: 8}
+        - {x: -18, y: -16}
+        - {x: -4, y: -43}
+        - {x: 27, y: -77}
+        - {x: 31, y: -73}
+        - {x: 31, y: -68}
+        - {x: 33, y: -82}
+        - {x: 12, y: -119}
+        - {x: 8, y: -138}
+        - {x: 8, y: -139}
+        - {x: 28, y: -139}
+        - {x: 60, y: -110}
+        - {x: 60, y: -13}
+        - {x: 43, y: 49}
+        - {x: 34, y: 59}
+        - {x: 28, y: 61}
+      - - {x: 41, y: 97}
+        - {x: 40, y: 96}
+        - {x: 40, y: 87}
+        - {x: 57, y: 68}
+        - {x: 65, y: 65}
+        - {x: 66, y: 65}
+        - {x: 66, y: 88}
+        - {x: 42, y: 97}
+    - name: "Fiona_ tired_Level 5_0003 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 5
+        width: 108
+        height: 250
+      alignment: 9
+      pivot: {x: 0.3425926, y: 0.604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 90}
+        - {x: -20, y: 90}
+        - {x: -20, y: -41}
+        - {x: 28, y: -81}
+        - {x: 32, y: -73}
+        - {x: 32, y: -67}
+        - {x: 32, y: -93}
+        - {x: 13, y: -120}
+        - {x: 10, y: -128}
+        - {x: 11, y: -137}
+        - {x: 13, y: -139}
+        - {x: 46, y: -136}
+        - {x: 61, y: -100}
+        - {x: 61, y: 5}
+        - {x: 48, y: 68}
+      - - {x: 57, y: -13}
+        - {x: 58, y: -16}
+        - {x: 66, y: -17}
+        - {x: 71, y: -17}
+        - {x: 71, y: -9}
+        - {x: 59, y: -9}
+    - name: "Fiona_ tired_Level 5_0004 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 10
+        width: 92
+        height: 245
+      alignment: 9
+      pivot: {x: 0.29347825, y: 0.60816324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 64}
+        - {x: 29, y: 61}
+        - {x: 27, y: 59}
+        - {x: 28, y: 56}
+        - {x: 21, y: 61}
+        - {x: 24, y: 72}
+        - {x: 10, y: 86}
+        - {x: -10, y: 91}
+        - {x: -17, y: 91}
+        - {x: -17, y: -27}
+        - {x: -15, y: -46}
+        - {x: 30, y: -83}
+        - {x: 33, y: -73}
+        - {x: 33, y: -69}
+        - {x: 34, y: -84}
+        - {x: 12, y: -119}
+        - {x: 9, y: -138}
+        - {x: 11, y: -139}
+        - {x: 14, y: -139}
+        - {x: 43, y: -119}
+        - {x: 61, y: -101}
+        - {x: 61, y: -2}
+        - {x: 54, y: 52}
+      - - {x: -27, y: -63}
+        - {x: -27, y: -99}
+        - {x: -21, y: -99}
+        - {x: -13, y: -92}
+        - {x: -13, y: -69}
+        - {x: -15, y: -63}
+      - - {x: 58, y: 1}
+        - {x: 55, y: -4}
+        - {x: 55, y: -13}
+        - {x: 57, y: -17}
+        - {x: 63, y: -24}
+        - {x: 65, y: -24}
+        - {x: 65, y: 1}
+      - - {x: 51, y: 95}
+        - {x: 51, y: 87}
+        - {x: 60, y: 75}
+        - {x: 64, y: 74}
+        - {x: 65, y: 74}
+        - {x: 65, y: 86}
+        - {x: 54, y: 96}
+    - name: "Fiona_ tired_Level 5_0005 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 18
+        width: 94
+        height: 237
+      alignment: 9
+      pivot: {x: 0.27659574, y: 0.61603373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 91}
+        - {x: -19, y: 91}
+        - {x: -19, y: 1}
+        - {x: -16, y: -29}
+        - {x: -5, y: -44}
+        - {x: 16, y: -51}
+        - {x: 26, y: -38}
+        - {x: 26, y: -37}
+        - {x: 26, y: -40}
+        - {x: 24, y: -42}
+        - {x: 20, y: -51}
+        - {x: 20, y: -64}
+        - {x: 8, y: -139}
+        - {x: 16, y: -139}
+        - {x: 39, y: -128}
+        - {x: 61, y: -98}
+        - {x: 61, y: 37}
+      - - {x: -24, y: -62}
+        - {x: -26, y: -62}
+        - {x: -26, y: -99}
+        - {x: -24, y: -99}
+        - {x: -23, y: -102}
+        - {x: -21, y: -104}
+        - {x: -11, y: -104}
+        - {x: -9, y: -98}
+        - {x: -9, y: -69}
+        - {x: -12, y: -66}
+      - - {x: -26, y: 26}
+        - {x: -23, y: 27}
+        - {x: -23, y: 39}
+        - {x: -25, y: 41}
+        - {x: -26, y: 41}
+    - name: "Fiona_ tired_Level 5_0006 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1694
+        y: 15
+        width: 101
+        height: 240
+      alignment: 9
+      pivot: {x: 0.3069307, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -96}
+        - {x: 61, y: -85}
+        - {x: 61, y: -75}
+        - {x: 59, y: -68}
+        - {x: 47, y: 47}
+        - {x: 43, y: 52}
+        - {x: 34, y: 61}
+        - {x: 27, y: 61}
+        - {x: 23, y: 75}
+        - {x: -6, y: 90}
+        - {x: -20, y: 90}
+        - {x: -20, y: 80}
+        - {x: -5, y: 66}
+        - {x: -20, y: 21}
+        - {x: -20, y: -30}
+        - {x: 28, y: -81}
+        - {x: 32, y: -73}
+        - {x: 32, y: -68}
+        - {x: 32, y: -93}
+        - {x: 12, y: -118}
+        - {x: 9, y: -139}
+        - {x: 13, y: -139}
+        - {x: 16, y: -138}
+        - {x: 35, y: -123}
+        - {x: 41, y: -118}
+        - {x: 44, y: -114}
+      - - {x: -31, y: -25}
+        - {x: -31, y: -115}
+        - {x: -14, y: -113}
+        - {x: -8, y: -94}
+        - {x: -8, y: -45}
+        - {x: -24, y: -25}
+      - - {x: 61, y: -7}
+        - {x: 60, y: -9}
+        - {x: 60, y: -19}
+        - {x: 68, y: -30}
+        - {x: 70, y: -30}
+        - {x: 70, y: -4}
+        - {x: 65, y: -4}
+      - - {x: -30, y: 56}
+        - {x: -31, y: 56}
+        - {x: -31, y: 32}
+        - {x: -29, y: 32}
+        - {x: -26, y: 35}
+        - {x: -26, y: 53}
+      - - {x: 57, y: 90}
+        - {x: 57, y: 80}
+        - {x: 66, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: 82}
+        - {x: 60, y: 91}
+    - name: "Fiona_inaktive_Level 5_0001 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 118
+        width: 214
+        height: 137
+      alignment: 9
+      pivot: {x: 0.52803737, y: 0.8029197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -13}
+        - {x: 101, y: -10}
+        - {x: 101, y: 27}
+        - {x: 83, y: 27}
+        - {x: 25, y: -16}
+        - {x: -37, y: -73}
+        - {x: -36, y: -78}
+        - {x: -102, y: -78}
+        - {x: -103, y: -79}
+        - {x: -103, y: -97}
+        - {x: -81, y: -110}
+        - {x: -15, y: -110}
+        - {x: 90, y: -45}
+        - {x: 92, y: -27}
+        - {x: 88, y: -26}
+        - {x: 85, y: -27}
+    - name: "Fiona_inaktive_Level 5_0002 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 99
+        width: 212
+        height: 156
+      alignment: 9
+      pivot: {x: 0.5188679, y: 0.71153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102, y: -100}
+        - {x: -91, y: -111}
+        - {x: 12, y: -111}
+        - {x: 101, y: -40}
+        - {x: 101, y: 29}
+        - {x: 81, y: 29}
+        - {x: -102, y: -82}
+    - name: "Fiona_inaktive_Level 5_0003 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 83
+        width: 213
+        height: 172
+      alignment: 9
+      pivot: {x: 0.53521127, y: 0.65697676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: -109}
+        - {x: 40, y: -113}
+        - {x: 86, y: -113}
+        - {x: 99, y: -107}
+        - {x: 99, y: -61}
+        - {x: 95, y: -61}
+        - {x: 55, y: -84}
+      - - {x: 80, y: 31}
+        - {x: -101, y: -76}
+        - {x: -101, y: -98}
+        - {x: -72, y: -112}
+        - {x: -17, y: -112}
+        - {x: 94, y: -45}
+        - {x: 99, y: -26}
+        - {x: 99, y: 31}
+    - name: "Fiona_inaktive_Level 5_0004 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 101
+        width: 226
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5619469, y: 0.7467533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 33}
+        - {x: 88, y: 28}
+        - {x: -99, y: -83}
+        - {x: -100, y: -85}
+        - {x: -100, y: -92}
+        - {x: -89, y: -100}
+        - {x: -60, y: -111}
+        - {x: -58, y: -112}
+        - {x: -10, y: -112}
+        - {x: 99, y: -52}
+        - {x: 99, y: 33}
+      - - {x: -44, y: -30}
+        - {x: -46, y: -32}
+        - {x: -30, y: -14}
+        - {x: -30, y: 23}
+        - {x: -34, y: 23}
+        - {x: -43, y: 17}
+        - {x: -127, y: -58}
+        - {x: -127, y: -81}
+        - {x: -122, y: -81}
+        - {x: -54, y: -61}
+        - {x: -36, y: -40}
+        - {x: -41, y: -29}
+    - name: "Fiona_inaktive_Level 5_0005 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 11
+        width: 207
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5217391, y: 0.70857143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 13}
+        - {x: 93, y: 9}
+        - {x: 94, y: 20}
+        - {x: 96, y: 20}
+        - {x: 99, y: 31}
+        - {x: 99, y: 35}
+        - {x: 83, y: 35}
+        - {x: -97, y: -81}
+        - {x: -97, y: -113}
+        - {x: 26, y: -113}
+        - {x: 99, y: -91}
+        - {x: 99, y: 12}
+        - {x: 96, y: 14}
+      - - {x: -108, y: -44}
+        - {x: -97, y: -51}
+        - {x: 2, y: -51}
+        - {x: 78, y: 22}
+        - {x: 78, y: 51}
+        - {x: 19, y: 51}
+        - {x: -108, y: 9}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

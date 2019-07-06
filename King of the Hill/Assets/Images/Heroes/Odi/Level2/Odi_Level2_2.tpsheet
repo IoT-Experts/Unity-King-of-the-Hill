@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ac1409fa5a05e1b362e216d9226836fd:286c965abfda5856cd7ee4fbc0a7a265:c17efc481e7532f3a2967076cb4948d8$
+#
+:format=40000
+:texture=Odi_Level2_2.png
+:size=256x512
+
+Odi_Tired_Level 3_0007;1;203;217;308;-0.03456221198156682;0.6087662337662338; 21;142;260;155;284;166;266;161;216;217;179;217;167;201;159;201;115;186;115;177;158;122;140;89;142;16;0;0;10;57;113;68;153;48;193;42;257;19;281;96;260;99;308; 19;17;18;19;16;17;19;3;16;19;12;13;14;11;12;14;11;14;15;11;15;16;3;9;10;3;11;16;11;3;10;6;7;8;9;3;4;4;5;6;9;4;6;6;8;9;0;3;19;0;2;3;0;1;2;0;19;20
