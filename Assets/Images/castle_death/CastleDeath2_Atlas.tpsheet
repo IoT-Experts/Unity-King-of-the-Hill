@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:f03eea391d2b2c8a85ae4e09f2bd1189:7be8e0b3dd29f89fec78a3120022bebb:9586b39d20ffef29336696e8ab6e539d$
+#
+:format=40000
+:texture=CastleDeath2_Atlas.png
+:size=512x1024
+
+castle_death_0002;1;410;508;613;0.5826771653543307;0.799347471451876; 18;144;574;168;486;273;511;321;474;322;394;389;376;389;283;421;248;508;228;508;127;473;108;368;3;124;0;0;4;0;519;14;585;51;612;124;613; 16;0;16;17;15;0;14;13;1;12;13;14;1;7;10;11;10;7;8;10;8;9;6;7;11;6;11;12;4;5;6;4;6;12;4;1;2;4;2;3;1;4;12;0;1;14;15;16;0

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:706287f72d3b735e65850992a83561a2:9b744751a470dc5bf6ed5a3552b98c7b:1baa17e7599d6a0418d3bb16a5a8107d$
+#
+:format=40000
+:texture=Morgana_Base2.png
+:size=256x256
+
+Morgana_tired_0009;1;10;158;245;0.9462025316455697;0.6918367346938776; 17;158;213;141;134;116;109;140;58;143;3;129;3;110;12;36;0;33;27;0;34;1;92;58;99;72;123;55;152;54;203;69;242;124;245; 15;14;15;16;0;14;16;14;0;1;8;10;11;8;9;10;11;12;2;1;12;13;8;6;7;6;8;11;3;4;5;3;5;6;11;2;3;11;3;6;1;2;12;14;1;13
+Morgana_weapon;163;186;67;69;0.5;0.5; 4;67;0;0;0;0;69;67;69; 2;1;2;3;0;1;3

@@ -1,0 +1,14 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c71b0fa6d4a935fa3d10fcd9e70259a9:75cd4ba90f7fdad4432650e9a31ebf15:5a19cb6457e802348a40b79fe5d21011$
+#
+:format=40000
+:texture=Maximus_Level52_Atlas.png
+:size=128x512
+
+Maximus_tired_level 6_0008;36;153;45;293;0.9666666666666667;0.5119453924914676; 9;45;219;32;179;39;82;35;0;24;5;11;83;20;149;0;215;13;293; 7;1;6;7;2;3;4;2;4;5;2;5;6;1;2;6;0;1;7;0;7;8
+Maximus_tired_level 6_0009;1;217;44;294;0.8977272727272727;0.5068027210884354; 10;44;218;31;171;36;78;31;5;26;0;21;5;5;83;18;121;0;217;13;294; 8;1;7;8;3;4;5;2;3;5;2;5;6;2;6;7;1;2;7;0;1;8;0;8;9

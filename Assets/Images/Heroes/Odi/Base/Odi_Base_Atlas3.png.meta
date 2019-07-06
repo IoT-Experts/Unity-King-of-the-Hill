@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: f558f8b8393eb4223af55522124afca5
+timeCreated: 1457813978
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Odi_Tired_0007
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Odi_Tired_0007
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 70
+        width: 215
+        height: 185
+      alignment: 9
+      pivot: {x: 0.38372093, y: 0.9918919}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.5, y: 1.5}
+        - {x: 17.5, y: 1.5}
+        - {x: -5.5, y: -3.5}
+        - {x: -37.5, y: -31.5}
+        - {x: -65.5, y: -73.5}
+        - {x: -75.5, y: -95.5}
+        - {x: -75.5, y: -183.5}
+        - {x: -73.5, y: -183.5}
+        - {x: -56.5, y: -178.5}
+        - {x: -37.5, y: -164.5}
+        - {x: -35.5, y: -183.5}
+        - {x: 27.5, y: -183.5}
+        - {x: 126.5, y: -91.5}
+        - {x: 126.5, y: -61.5}
+        - {x: 94.5, y: -0.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
