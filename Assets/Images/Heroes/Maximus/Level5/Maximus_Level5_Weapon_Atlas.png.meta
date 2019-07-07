@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: afb504c24371c400390730a212aa2820
+timeCreated: 1457809724
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: maximus_weapon_06
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: maximus_weapon_06
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 24
+        width: 302
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: 9.5}
+        - {x: 108, y: 9.5}
+        - {x: 114, y: 9.5}
+        - {x: 117, y: 10.5}
+        - {x: 125, y: 19.5}
+        - {x: -151, y: 19.5}
+        - {x: -151, y: -10.5}
+        - {x: -96, y: -19.5}
+        - {x: 133, y: -19.5}
+        - {x: 151, y: -10.5}
+        - {x: 151, y: 10.5}
+        - {x: 132, y: 10.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

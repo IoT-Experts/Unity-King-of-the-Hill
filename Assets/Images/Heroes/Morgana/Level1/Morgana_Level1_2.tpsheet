@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:3d7bded476514d82a930b1c4a0e4c205:f53ef7c81c98385bb5e98296d05be972:85a24328e0c57549a82848fd8e2fd382$
+#
+:format=40000
+:texture=Morgana_Level1_2.png
+:size=128x512
+
+Morgana_tired_level 2_0006;1;223;91;288;0.5769230769230769;0.5815972222222222; 8;82;277;91;230;43;192;19;0;0;0;26;193;10;268;43;288; 6;1;2;6;2;5;6;3;4;5;2;3;5;1;6;7;0;1;7

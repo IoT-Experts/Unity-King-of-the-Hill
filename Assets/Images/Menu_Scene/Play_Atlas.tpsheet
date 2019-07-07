@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:2367844efa8aa81bcf666ead1da5c688:27bf25a2155cebd3786add5feac54e7f:959af23e76518fb5d37343895f67bdab$
+#
+:format=40000
+:texture=Play_Atlas.png
+:size=512x512
+
+Buttons_PLAY;1;102;409;409;0.5;0.5; 17;326;373;376;332;409;253;409;144;370;76;313;21;245;0;152;0;83;34;39;67;6;142;0;179;0;250;35;334;106;391;169;409;263;409; 15;0;15;16;12;14;15;12;13;14;11;12;15;6;0;4;8;10;11;8;9;10;6;8;11;6;7;8;4;5;6;6;11;0;4;0;2;4;2;3;0;1;2;0;11;15

@@ -1,0 +1,13 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c75b984c859ea8b367298f8f8f79c6d4:bee7eb3272baeebc2ac88da9838d0167:b3397e1e61c63d3aab48823f30af65a7$
+#
+:format=40000
+:texture=Fiona_weapon.png
+:size=128x16
+
+arrow;1;7;70;8;0.5;0.5; 4;70;0;0;0;0;8;70;8; 2;1;2;3;0;1;3

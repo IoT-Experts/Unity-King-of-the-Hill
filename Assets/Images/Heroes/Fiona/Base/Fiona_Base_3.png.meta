@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 14ff6d97e88f84c7fa378f54be9f15fe
+timeCreated: 1457852128
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Fiona_inaktive_0001 \u043A\u043E\u043F\u0456\u044E\u0432\u0430\u0442\u0438"
+    21300002: "Fiona_inaktive_0002 \u043A\u043E\u043F\u0456\u044F"
+    21300004: "Fiona_inaktive_0003 \u043A\u043E\u043F\u0456\u044F"
+    21300006: "Fiona_inaktive_0004 \u043A\u043E\u043F\u0456\u044F"
+    21300008: "Fiona_inaktive_0005 \u043A\u043E\u043F\u0456\u044F"
+    21300010: "Fiona_inaktive_0006 \u043A\u043E\u043F\u0456\u044F"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "Fiona_inaktive_0001 \u043A\u043E\u043F\u0456\u044E\u0432\u0430\u0442\u0438"
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 41
+        width: 157
+        height: 214
+      alignment: 9
+      pivot: {x: 0.81528664, y: 0.7009346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 64}
+        - {x: -127, y: -17}
+        - {x: -127, y: -96}
+        - {x: -107, y: -140}
+        - {x: 11, y: -140}
+        - {x: 12, y: -139}
+        - {x: 26, y: -133}
+        - {x: 26, y: -31}
+        - {x: 9, y: 64}
+      - - {x: -124, y: -57}
+        - {x: -128, y: -56}
+        - {x: -128, y: -77}
+        - {x: -126, y: -77}
+        - {x: -118, y: -75}
+        - {x: -118, y: -62}
+      - - {x: 26, y: -43}
+        - {x: 28, y: -45}
+        - {x: 29, y: -45}
+        - {x: 29, y: -40}
+        - {x: 27, y: -40}
+    - name: "Fiona_inaktive_0002 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 158
+        height: 222
+      alignment: 9
+      pivot: {x: 0.8101266, y: 0.6756757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -140}
+        - {x: 27, y: -140}
+        - {x: 27, y: -3}
+        - {x: -11, y: 64}
+        - {x: -69, y: 64}
+        - {x: -128, y: 18}
+        - {x: -128, y: -45}
+        - {x: -88, y: -140}
+        - {x: -67, y: -140}
+        - {x: -37, y: -91}
+        - {x: -32, y: -81}
+        - {x: -39, y: -115}
+      - - {x: 14, y: -25}
+        - {x: 14, y: -29}
+        - {x: 25, y: -35}
+        - {x: 30, y: -35}
+        - {x: 30, y: -19}
+        - {x: 22, y: -21}
+      - - {x: 18, y: -5}
+        - {x: 18, y: -6}
+        - {x: 28, y: -17}
+        - {x: 30, y: -17}
+        - {x: 30, y: -1}
+        - {x: 23, y: -1}
+    - name: "Fiona_inaktive_0003 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 46
+        width: 157
+        height: 209
+      alignment: 9
+      pivot: {x: 0.79617834, y: 0.6698565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 64}
+        - {x: -75, y: 64}
+        - {x: -125, y: -6}
+        - {x: -125, y: -92}
+        - {x: -88, y: -140}
+        - {x: 7, y: -140}
+        - {x: 24, y: -138}
+        - {x: 28, y: -114}
+        - {x: 28, y: -46}
+        - {x: 0, y: 51}
+    - name: "Fiona_inaktive_0004 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 40
+        width: 157
+        height: 215
+      alignment: 9
+      pivot: {x: 0.80254775, y: 0.66976744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -81}
+        - {x: -27, y: -88}
+        - {x: -14, y: -133}
+        - {x: -2, y: -140}
+        - {x: 1, y: -140}
+        - {x: 22, y: -137}
+        - {x: 28, y: -79}
+        - {x: 28, y: -48}
+        - {x: 1, y: 35}
+        - {x: -12, y: 64}
+        - {x: -51, y: 64}
+        - {x: -119, y: 30}
+        - {x: -126, y: 16}
+        - {x: -126, y: -92}
+        - {x: -92, y: -140}
+        - {x: -68, y: -140}
+        - {x: -44, y: -106}
+        - {x: -28, y: -79}
+        - {x: -28, y: -77}
+      - - {x: -123, y: -47}
+        - {x: -126, y: -47}
+        - {x: -126, y: -72}
+        - {x: -122, y: -72}
+        - {x: -116, y: -69}
+        - {x: -114, y: -67}
+        - {x: -114, y: -57}
+      - - {x: 28, y: -24}
+        - {x: 19, y: -32}
+        - {x: 19, y: -34}
+        - {x: 20, y: -36}
+        - {x: 31, y: -36}
+        - {x: 31, y: -24}
+      - - {x: 27, y: -5}
+        - {x: 25, y: -9}
+        - {x: 25, y: -12}
+        - {x: 29, y: -13}
+        - {x: 31, y: -13}
+        - {x: 31, y: -5}
+    - name: "Fiona_inaktive_0005 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 44
+        width: 158
+        height: 211
+      alignment: 9
+      pivot: {x: 0.79113925, y: 0.68720376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: -77}
+        - {x: -27, y: -81}
+        - {x: -14, y: -133}
+        - {x: -4, y: -139}
+        - {x: 4, y: -139}
+        - {x: 18, y: -135}
+        - {x: 30, y: -99}
+        - {x: 30, y: -18}
+        - {x: -6, y: 64}
+        - {x: -60, y: 64}
+        - {x: -120, y: -16}
+        - {x: -125, y: -27}
+        - {x: -125, y: -45}
+        - {x: -103, y: -66}
+        - {x: -82, y: -127}
+        - {x: -78, y: -139}
+        - {x: -71, y: -139}
+        - {x: -62, y: -134}
+        - {x: -28, y: -84}
+        - {x: -27, y: -79}
+      - - {x: 29, y: -42}
+        - {x: 29, y: -44}
+        - {x: 31, y: -46}
+        - {x: 33, y: -46}
+        - {x: 33, y: -39}
+        - {x: 32, y: -39}
+    - name: "Fiona_inaktive_0006 \u043A\u043E\u043F\u0456\u044F"
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 36
+        width: 158
+        height: 219
+      alignment: 9
+      pivot: {x: 0.8037975, y: 0.6666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -81}
+        - {x: -27, y: -88}
+        - {x: -14, y: -133}
+        - {x: -2, y: -140}
+        - {x: 28, y: -140}
+        - {x: 28, y: -25}
+        - {x: 14, y: 64}
+        - {x: -55, y: 64}
+        - {x: -101, y: 25}
+        - {x: -127, y: -4}
+        - {x: -127, y: -63}
+        - {x: -78, y: -140}
+        - {x: -67, y: -140}
+        - {x: -42, y: -111}
+        - {x: -29, y: -82}
+        - {x: -28, y: -77}
+      - - {x: -125, y: -43}
+        - {x: -127, y: -43}
+        - {x: -127, y: -70}
+        - {x: -123, y: -70}
+        - {x: -115, y: -66}
+        - {x: -114, y: -60}
+        - {x: -114, y: -57}
+      - - {x: 26, y: -16}
+        - {x: 16, y: -22}
+        - {x: 16, y: -25}
+        - {x: 17, y: -26}
+        - {x: 28, y: -31}
+        - {x: 31, y: -31}
+        - {x: 31, y: -16}
+      - - {x: 20, y: 0}
+        - {x: 20, y: -3}
+        - {x: 30, y: -14}
+        - {x: 31, y: -14}
+        - {x: 31, y: 3}
+        - {x: 27, y: 3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

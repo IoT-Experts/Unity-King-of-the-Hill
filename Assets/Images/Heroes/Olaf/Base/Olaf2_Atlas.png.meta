@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: c5b314faffc234a9884b1670dc6b355d
+timeCreated: 1457702946
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Olaf_tired_0001
+    21300002: Olaf_tired_0002
+    21300004: Olaf_tired_0003
+    21300006: Olaf_tired_0004
+    21300008: Olaf_tired_0005
+    21300010: Olaf_tired_0006
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Olaf_tired_0001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 172
+        height: 229
+      alignment: 9
+      pivot: {x: -0.08430233, y: 0.7161572}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.5, y: 60}
+        - {x: 16.5, y: -42}
+        - {x: 18.5, y: -53}
+        - {x: 44.5, y: -164}
+        - {x: 146.5, y: -164}
+        - {x: 183.5, y: -134}
+        - {x: 183.5, y: -33}
+        - {x: 160.5, y: 60}
+    - name: Olaf_tired_0002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 271
+        width: 161
+        height: 240
+      alignment: 9
+      pivot: {x: -0.13354038, y: 0.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138.5, y: 45}
+        - {x: 101.5, y: 65}
+        - {x: 44.5, y: 65}
+        - {x: 40.5, y: 26}
+        - {x: 24.5, y: -21}
+        - {x: 24.5, y: -121}
+        - {x: 33.5, y: -164}
+        - {x: 143.5, y: -164}
+        - {x: 175.5, y: -133}
+        - {x: 179.5, y: -81}
+        - {x: 179.5, y: 20}
+    - name: Olaf_tired_0003
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 281
+        width: 156
+        height: 230
+      alignment: 9
+      pivot: {x: -0.14423077, y: 0.70869565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95.5, y: 65}
+        - {x: 29.5, y: 65}
+        - {x: 24.5, y: 45}
+        - {x: 24.5, y: -119}
+        - {x: 39.5, y: -163}
+        - {x: 175.5, y: -163}
+        - {x: 175.5, y: 36}
+        - {x: 160.5, y: 43}
+    - name: Olaf_tired_0004
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 210
+        width: 165
+        height: 231
+      alignment: 9
+      pivot: {x: -0.093939394, y: 0.71428573}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76.5, y: 62}
+        - {x: 37.5, y: 62}
+        - {x: 24.5, y: 56}
+        - {x: 24.5, y: -111}
+        - {x: 31.5, y: -164}
+        - {x: 158.5, y: -164}
+        - {x: 178.5, y: -149}
+        - {x: 178.5, y: 43}
+        - {x: 126.5, y: 55}
+      - - {x: 177.5, y: 54}
+        - {x: 168.5, y: 43}
+        - {x: 168.5, y: 14}
+        - {x: 171.5, y: 3}
+        - {x: 178.5, y: -7}
+        - {x: 180.5, y: -7}
+        - {x: 180.5, y: 54}
+    - name: Olaf_tired_0005
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 282
+        width: 158
+        height: 229
+      alignment: 9
+      pivot: {x: -0.1107595, y: 0.7117904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.5, y: -97}
+        - {x: 17.5, y: -97}
+        - {x: 17.5, y: -163}
+        - {x: 33.5, y: -163}
+        - {x: 33.5, y: -138}
+        - {x: 29.5, y: -123}
+      - - {x: 104.5, y: 64}
+        - {x: 33.5, y: 64}
+        - {x: 24.5, y: -4}
+        - {x: 24.5, y: -97}
+        - {x: 46.5, y: -163}
+        - {x: 172.5, y: -163}
+        - {x: 175.5, y: -148}
+        - {x: 175.5, y: 37}
+    - name: Olaf_tired_0006
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 276
+        width: 161
+        height: 235
+      alignment: 9
+      pivot: {x: -0.13354038, y: 0.69787234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167.5, y: 32}
+        - {x: 103.5, y: 65}
+        - {x: 36.5, y: 65}
+        - {x: 24.5, y: 35}
+        - {x: 24.5, y: -128}
+        - {x: 40.5, y: -164}
+        - {x: 128.5, y: -164}
+        - {x: 167.5, y: -143}
+        - {x: 177.5, y: -117}
+        - {x: 177.5, y: 15}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
